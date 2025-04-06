@@ -1,0 +1,4 @@
+crop,soil_type,water_needs,advice
+"Rice","Clay","High","Rice is suitable for clay soil with high water needs."
+"Wheat","Loamy","Medium","Wheat grows well in loamy soil with moderate water."
+"Millet","Sandy","Low","Millet is ideal for sandy soil with low water needs."
